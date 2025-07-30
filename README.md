@@ -70,5 +70,5 @@ streamlit run app.py
 
 ---
 
-###👩‍💻 Author
+### 👩‍💻 Author
 Made with 💚 by [Aanya Shukla](https://github.com/aanyashukla/)

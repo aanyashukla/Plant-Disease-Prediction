@@ -46,11 +46,12 @@ Plant-Disease-Prediction/
 └── .gitignore                     # Files/folders to ignore in Git
 ```
 
+---
+
 ## 🧪 How to Use
 
 1. Open the Streamlit app
-2. Upload a leaf image (JPG/PNG)
-3. Click **"Classify"**
+2. Upload a leaf image (JPG/PNG/JPEG)
 4. See:
    - 🟢 Predicted disease
    - 📊 Confidence score

@@ -12,3 +12,6 @@ __pycache__/
 
 # Streamlit temp
 .streamlit/config.toml
+
+# idea files
+.idea/

@@ -62,8 +62,8 @@ Plant-Disease-Prediction/
 ## 💻 Local Setup
 
 ```bash
-git clone https://github.com/your-username/plant-disease-prediction.git
-cd plant-disease-prediction/streamlit_app
+git clone https://github.com/aanyashukla/Plant-Disease-Prediction.git
+cd Plant-Disease-Prediction/streamlit_app
 pip install -r requirements.txt
 streamlit run app.py
 ```
